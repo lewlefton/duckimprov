@@ -2,4 +2,4 @@ url: "https://lewlefton.com"
 name: "Decatur yoUth Comedy Krewe"
 description: "Teen Improv Comedy in Decatur, GA"
 baseurl: "/duckimprov"
-remote_theme: "pages-themes/minima@v2.5.1"
+theme: minima
