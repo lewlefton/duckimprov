@@ -12,4 +12,4 @@ categories:
 format: false
 ---
 
-[![](/wp-content/uploads/2012/05/DAF_logo_main1-300x166.gif "DAF_logo_main1")](/wp-content/uploads/2012/05/DAF_logo_main1.gif)We're a featured improv group this weekend at the [Decatur Arts Festival](http://decaturartsfestival.com/) comedy tent. We're on from 2 - 2:45 at the MARTA plaza. The local press even put us as one of their top [5 things to do at the festival](http://decatur.patch.com/articles/5-things-to-do-at-the-arts-festival), so it should be a great crowd and a fun show!
+[![](/duckimprov/wp-content/uploads/2012/05/DAF_logo_main1-300x166.gif "DAF_logo_main1")](/duckimprov/wp-content/uploads/2012/05/DAF_logo_main1.gif)We're a featured improv group this weekend at the [Decatur Arts Festival](http://decaturartsfestival.com/) comedy tent. We're on from 2 - 2:45 at the MARTA plaza. The local press even put us as one of their top [5 things to do at the festival](http://decatur.patch.com/articles/5-things-to-do-at-the-arts-festival), so it should be a great crowd and a fun show!
